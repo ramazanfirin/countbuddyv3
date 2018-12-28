@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mastertek.countbuddy",
+      "nativeLanguage": "tr"
+    },
+    "jhipsterVersion": "4.13.0",
+    "baseName": "countbuddyv3",
+    "packageName": "com.mastertek.countbuddy",
+    "packageFolder": "com/mastertek/countbuddy",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "8bbebb2953a6c3c41aae50f895298fe9def6c6d1",
+    "clientFramework": "angular1",
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "tr",
+    "languages": [
+      "tr",
+      "en"
+    ]
+  }
+}
